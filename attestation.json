@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorjungle",
+  "repo": "NDesumeur/neodex-plugin-decor-jungle",
+  "version": "1.0.0",
+  "sha256": "731ccc39db2aa8c3a25e8db50ed4b8fa0506df75d46a129dfc6016cfbcf22ba9",
+  "approvedAt": "2026-11-22T19:05:25.701Z",
+  "neobase": ">=4.1.0",
+  "signature": "kDvhAvd84uo0b54UguMhVvRzC2SJ78Gr56J7mWcDMI7u96yjym/iUF121AX3uftFprUI4ueibb33CZODRMOnDw=="
+}
